@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson_3</string>
+    <string-array name="spMenu">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+    </string-array>
+</resources>
